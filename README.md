@@ -1,2 +1,2 @@
-# projetos-disciplina-flutter
-Todos projetos desenvolvidos, e codados durante a disciplina de Flutter 2021
+# Projeto Final da disciplina de Des. App II
+Projeto desenvolvido com a finalidade de ajudar pessoas a iniciar dietas.
